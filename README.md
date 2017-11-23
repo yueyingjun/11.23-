@@ -1,1 +1,1 @@
-https://chenyuzheng.github.io/vue/menu.html
+https://chenyuzheng.github.io/vueone/menu.html
